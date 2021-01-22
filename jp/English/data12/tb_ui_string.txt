@@ -29051,67 +29051,67 @@ ID=40842
 呪われた魂が訪ねてきました。彼らを迎える準備はできましたか？
 
 ID=40843
-すっかり涼しくなりましたね。\nパーティーが終わるまでTrick or Treat！！
+It's completely cool.\nUntil the party is over. Trick or Treat!
 
 ID=40844
-楽しいパーティーが終わりを告げました。\nでは次回お会いしましょう。
+The fun party is over.\nSee you next time.
 
 ID=710044
-蒼月の貴族
+Aotsuki Nobleman
 
 ID=710045
-蒼月の狩人
+Aotsuki Hunter
 
 ID=1468
-スタックされたA.Rカードに経験値は合成できません。\n\nアイテムを分け、空のスロットにA.Rを移動させてから利用してください。
+Experience points cannot be combined with stacked A.R cards.
 
 ID=1469
 MAX
 
 ID=1470
-合成登録
+Synthetic registration
 
 ID=29201
-<font color='#CC2EFA'>Souljunk
+<font color='#CC2EFA'>Soul Worker
 
 ID=29202
-<font color='#FA5882'>スタリーフォレスト
+<font color='#FA5882'>Starry Forest
 
 ID=29203
-<font color='#FA5882'>ネッドカンパニー
+<font color='#FA5882'>Ned Company
 
 ID=29204
-<font color='#FA5882'>ラピッドフレイム
+<font color='#FA5882'>Rapid Flame
 
 ID=29205
 <font color='#FFBF00'>Gold Forces
 
 ID=29206
-<font color='#00FFFF'>ソウルワーカー
+<font color='#00FFFF'>Soul Worker
 
 ID=29207
-<font color='#FF0040'>運命
+<font color='#FF0040'>Destiny
 
 ID=1600
 CARD MATCHING
 
 ID=1601
-ゲーム画面
+Game screen
 
 ID=1602
-ゲーム方法
+Game method
 
 ID=1603
-カードゲームをお楽しみください！\n・カード2枚を裏返し同じカードが出るとポイント獲得。\n・ペアが出れば、追加でもう一度カードを裏返すことができます。
+Enjoy the card game!\n・Turn over two cards and get points when the pair appear.\n・Once you have a pair, you can flip the card over again.
 
 ID=1604
 Forces Point
 
 ID=1605
-自分が当てたカードの中で、同勢力カードの個数によってボーナスを獲得します。\n[<font color='#FA5882'>スタリーフォレスト</font>/<font color='#0080FF'>ネッドカンパニー</font>/<font color='#CC2EFA'>ソウルジャンク</font>/<font color='#642EFE'>ラピッドフレイム</font>/<font color='#FFBF00'>ゴールド</font>/<font color='#00FFFF'>ソウルワーカー</font>/<font color='#FF0040'>運命</font>]勢力のカードがシャッフルして現れます。
+You will get a bonus depending on the number of cards of the same power among the cards you hit.\n[<font color='#FA5882'>Starry Forest</font>/<font color='#0080FF'>Ned Company</font>/<font color='#CC2EFA'>SoulWorker</font>/<font color='#642EFE'>Rapid Flame</font>/<font color='#FFBF00'>Gold Forces</font>/<font color='#00FFFF'>Soul Worker</font>/<font color='#FF0040'>Destiny</font>]Card of forces begin to shuffle.
 
 ID=1606
-準備中…
+In preparation…
 
 ID=1607
 TURN
@@ -29120,52 +29120,52 @@ ID=1608
 Time Limit
 
 ID=1609
-合計ポイント
+Total points
 
 ID=1610
-勝利しました。
+I won.
 
 ID=1611
-負けました。
+I lost.
 
 ID=1612
-H.E.M.S支給報酬
+Reward Sent on H.E.M.S
 
 ID=1613
 Quit Game
 
 ID=59311
-マッチング中にはカードマッチングボードゲームを利用できません。
+You cannot use the card board matching game during on-going match.
 
 ID=53162
-カードマッチングボードゲームを利用しているパーティー/フォースメンバーがいるためメイズが利用できません。
+Dungeon cannot be used because some party / force members are using the card board matching game.
 
 ID=1614
-{0}様のボードゲーム
+{0}Board game
 
 ID=1615
-5秒後スタート
+Start after 5 seconds
 
 ID=1616
-私の番です。
+It's my turn.
 
 ID=1617
-よし！
+Alright!
 
 ID=1618
-もう一回！
+One more time!
 
 ID=1619
-あ…。
+Oh...
 
 ID=59312
-相手がゲーム中に離脱したため勝利しました。
+You won because your opponent left during the game.
 
 ID=1620
-<font color='#E0B94F'>ボードゲーム所持者が立つとボードゲームは削除されます。続けますか？</font>
+<font color='#E0B94F'>The board game will be deleted when the board game owner leave. Do you want to continue?</font>
 
 ID=59313
-予期しないエラーが発生しました。
+An unexpected error has occurred.
 
 ID=154
 Equip Ring 2
@@ -29180,10 +29180,10 @@ ID=22697
 Entry: {0}/{1}
 
 ID=52089
-対象ソケットに{0}を装着しますか？\n<font color='#FF0000'>ソケットアイテム装着時装備が帰属されます。</font>
+Do you want to attach {0} to this socket?\n<font color='#FF0000'>Equipment will be attributed when the socket item is attached.</font>
 
 ID=52090
-このソケットに{0}を装着しますか？\n<font color='#FF0000'>ソケットアイテム装着時装備が帰属され、すでに装着したソケットアイテムは削除されます。</font>
+Do you want to attach {0} in this socket?\n<font color='#FF0000'>When a socket item is installed, the equipment will be attributed, and the socket item will be deleted.</font>
 
 ID=698
 <font color='#3ADF00'>臨時帰属</font>
@@ -29285,49 +29285,49 @@ ID=37336
 Defeat Tenebris within 45 seconds.
 
 ID=37341
-かわいいグルトンを避けてモンスターをすべて倒してください。
+Avoid cute Grutins and defeat all monsters.
 
 ID=37342
-エドガーのビームを使ってすべてのキューブを壊してください。
+Destroy all cubes with Edgar's beam.
 
 ID=37343
-ラパクンバが呪いをかけます。クリスタルを破壊して呪いに抵抗してください。
+Rapa Kumbha casts a curse. Destroy the crystals and resist the curse.
 
 ID=37344
-25秒以内に青いエリアに謎の球体を入れ、次のセクターへのゲートを開けてください。
+Within 25 seconds, put a mysterious sphere in the blue area and open the gate to the next sector.
 
 ID=37345
-ミリアムがあなたを手伝います。彼女に声をかけてください。
+Miriam will help you. Talk to her girlfriend.
 
 ID=37346
-転がってくるロイの黒炎球を避けてモンスターを倒してください。
+Avoid the rolling Roy's black flame ball and defeat the monsters.
 
 ID=37347
-ハイリスクハイリターンです。[ルーシー]>[グッドボーイ]>[ハイディンガー]
+High risk and high return.[Lucy]>[Good boy]>[Haidinger].
 
 ID=37348
-ラパクンバが呪いをかけます。床の円を踏むと回避が可能です。
+Rakumba curses. You can avoid it by stepping on the circle on the floor.
 
 ID=37349
-キャサリンの恨みと向き合う心の準備をしてください。
+Get ready to face Catherine's resentment.
 
 ID=37350
-何も得ることができません。残念ですね。
+What a shame!I can't get anything.
 
 ID=37351
-ギミックセクターの案内です。
+Gimmick sector Guide.
 
 ID=37352
-ギミックセクターの案内です。
+Gimmick sector Guide.
 
 ID=37353
-ギミックセクターの案内です。
+Gimmick sector Guide.
 
 ID=37354
-ギミックセクターの案内です。
+Gimmick sector Guide.
 
 ID=37355
-ギミックセクターの案内です。
+Gimmick sector Guide.
 
 ID=18316
 Start Breaking Illusion. Move to the illusory world?
@@ -29486,19 +29486,19 @@ ID=157
 Cancel
 
 ID=158
-全て解除
+Complete Unlocked
 
 ID=710047
 Steamy Open-air Bath
 
 ID=10142
-ソウルジャンパー2nd
+Soul Jumperー2nd
 
 ID=40322
-エキスパートのチェックポイントが活性化されました。
+Expert checkpoints have been activated.
 
 ID=50116
-現在サーバーメンテナンス中です。詳細内容は公式ホームページをご確認ください。
+Server maintenance is currently underway. Please check the official website for details.
 
 ID=16877
 Check Item Options
@@ -29507,16 +29507,16 @@ ID=33585
 Custom-made Set
 
 ID=10127
-ホワイトアウト
+Whiteout
 
 ID=10128
-レジェレクションプロジェクト
+Project Rejected
 
 ID=10129
-アンタッチャブルパス
+Untouchable Pass
 
 ID=10130
-ヘルシティ
+Health
 
 ID=10133
 Binded Room
@@ -29546,10 +29546,10 @@ ID=10586
 Failed Goal
 
 ID=10587
-届かない道
+Untouchable Pass
 
 ID=10588
-通路の血戦
+Bloody Passage
 
 ID=10589
 Faded Voice
@@ -29573,10 +29573,10 @@ ID=10595
 Binded Room
 
 ID=40816
-セデュリンと会話してクエストを進行した後当該装置を起動してバインディドルームを開始できます。
+After talking to Sedurin and proceeding with the quest, you can activate the device and start the Binded Room.
 
 ID=37360
-移動する地域を選択してください。
+Please select the area to move.
 
 ID=37361
 EXIT
@@ -29585,7 +29585,7 @@ ID=37362
 Skip Cutscene
 
 ID=37363
-メイズ移動[{0}]
+Moving to Dungeon[{0}]
 
 ID=10596
 Grace City West War
