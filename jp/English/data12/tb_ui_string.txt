@@ -1421,13 +1421,13 @@ ID=754
 Area Transfer [{0}]
 
 ID=755
-<font color='#0099FF'>Dismantlable</font>
+<font color='#0099FF'>Can be Dismantled</font>
 
 ID=756
-<font color='#0099FF'>Enhanceable</font>
+<font color='#0099FF'>Can be Enhanced</font>
 
 ID=757
-<font color='#0099FF'>Evolvable</font>
+<font color='#0099FF'>Can be Evolved</font>
 
 ID=758
 <font color='#FF0000'>Bound on Equip</font>
@@ -1436,22 +1436,22 @@ ID=759
 <font color='#FF0000'>Bound on Acquisition</font>
 
 ID=760
-<font color='#FF0000'>Bounded Item</font>
+<font color='#FF0000'>Bound Item</font>
 
 ID=761
 <font color='#FF0000'>Untradable</font>
 
 ID=762
-<font color='#FF0000'>Untradable (Bounded)</font>
+<font color='#FF0000'>Untradable (Bound)</font>
 
 ID=763
-<font color='#FF0000'>Unsellable</font>
+<font color='#FF0000'>Cannot be Sold</font>
 
 ID=764
-<font color='#FF0000'>Undiscardable</font>
+<font color='#FF0000'>Cannot be Discarded</font>
 
 ID=765
-<font color='#FF0000'>Unmovable</font>
+<font color='#FF0000'>Cannot be Moved</font>
 
 ID=766
 Selling Price
@@ -24287,7 +24287,7 @@ ID=11610
 闘志の
 
 ID=64002
-<font color='#0099FF'>タグ精錬可能</font>
+<font color='#0099FF'>Tags can be Refined</font>
 
 ID=64001
 Grade Transformation
