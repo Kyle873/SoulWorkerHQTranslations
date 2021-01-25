@@ -437,13 +437,13 @@ ID=315
 Are you sure you want to discard {0}?
 
 ID=316
-Sell Mode
+Sell
 
 ID=317
 Ether:
 
 ID=318
-Dismantle Mode
+Dismantle
 
 ID=325
 Are you sure you want to expand your inventory slots?
@@ -4004,10 +4004,10 @@ ID=7012
 Equipped
 
 ID=7013
-Insufficient SP.
+No SP
 
 ID=7014
-Insufficient total SP.
+Insufficient total SP
 
 ID=7015
 Maxed
@@ -24290,34 +24290,34 @@ ID=64002
 <font color='#0099FF'>タグ精錬可能</font>
 
 ID=64001
-等級改造
+Grade Transformation
 
 ID=64003
-オプション改造
+Option Modification
 
 ID=64004
-タグ改造
+Tag Modification
 
 ID=64005
-タグ精錬確率
+Tag Refining Probability
 
 ID=64006
 {0}%
 
 ID=64007
-タグ精錬チップを登録してください。
+Please select a tag refining chip.
 
 ID=64008
-タグ精錬材料登録
+Tag Refining Material
 
 ID=64009
-タグ精錬対象及びタグ精錬チップを登録してください。
+Please select a tag refining target and a tag refining chip.
 
 ID=64010
-改造
+Reform
 
 ID=64011
-タグ精錬
+Tag Refining
 
 ID=64012
 Success
@@ -24326,52 +24326,52 @@ ID=64013
 Failure
 
 ID=64014
-タグ精錬材料を登録してください。
+Please select a tag refining material.
 
 ID=65014
-{0}等級のタグがランダムに付与されます。
+{0} grade tags are randomly assigned.
 
 ID=24023
-タグ精錬チップ
+Tag Refining Chip
 
 ID=24333
-武器タグ精錬チップ
+Weapon Tag Refining Chip
 
 ID=24334
-ギアタグ精錬チップ
+Gear Tag Refining Chip
 
 ID=24673
-タグ精錬チップ
+Tag Refining Chip
 
 ID=24897
-武器タグ精錬チップ
+Weapon Tag Refining Chip
 
 ID=24898
-ギアタグ精錬チップ
+Gear Tag Refining Chip
 
 ID=65015
-タグ精錬対象にはタグが既に付与されています。タグ精錬失敗時に既に付与されているタグは失われます。タグ精錬を行いますか？
+Tags have already been added to the tag refining target. Tags that have already been added will be lost if tag refining fails. Do you want to continue?
 
 ID=65016
-タグ精錬対象に既に付与されているタグと、精錬を行おうとしているタグの内容が同一のため登録できません。
+The tag that has been selected is the same as a tag that is in the tag refining target, so this selection is not possible.
 
 ID=52080
-システムエラーにより、アイテムにタグを追加する事ができません。
+Due to a system error, it is not possible to add tags to this item.
 
 ID=52081
-ジェニー不足のため、アイテムにタグを追加する事ができません。
+You cannot add tags to this item due to having insufficient Zenny.
 
 ID=52082
-エーテル不足のため、アイテムにタグを追加する事ができません。
+You cannot add tags to this item due to having insufficient Ether.
 
 ID=24674
-タグ製作材料
+Tag Production Material
 
 ID=24335
-タグ製作材料
+Tag Production Material
 
 ID=24899
-タグ製作材料
+Tag Production Material
 
 ID=11701
 狂乱の
@@ -27035,34 +27035,34 @@ ID=28712
 スキル使用時、5％の確率で5秒間クリティカル{0}％増加
 
 ID=18229
-オプション情報
+Option Information
 
 ID=18230
-選択精錬ポイント
+Refining Points
 
 ID=18231
-変更可能なオプション
+Changeable Options
 
 ID=18232
-<font color='#0048BA'>キャラクター単位</font>で最大 <font color='#FFBF00'>{0}</font><font color='#0048BA'>ポイント</font>累積\n<font color='#0048BA'>消費したエナジーコンバーター当たり</font> <font color='#FFBF00'>{1}</font><font color='#0048BA'>ポイント</font>獲得\n超過したポイントは消滅
+<font color='#0048BA'>Character Unit: </font>maximum of <font color='#FFBF00'>{0} </font><font color='#0048BA'>points </font>gained\n<font color='#0048BA'>Per consumed energy converter: </font><font color='#FFBF00'>{1} </font><font color='#0048BA'>points </font>gained\nExcess points will disappear
 
 ID=18233
-選択精錬
+Selective Refining
 
 ID=18234
-1つのオプションのみを選択して製錬することができます。\n選択されたオプションの種類は変更されません。
+Only one option can be selected for tuning.\nThe selected option is not changed.
 
 ID=18235
-復元オプション
+Restore Options
 
 ID=18236
-復元費用
+Restore Cost
 
 ID=18238
-変更されたオプション
+Changed Options
 
 ID=18239
-<font color='#0048BA'>変更されたオプションが適用されました。</font>\n復元オプションを選択して、既存のオプションに戻すことができます。\nオプション復元時BPが消費されます。\n<font color='#FF0000'>現在の状態から抜け出したら、もはや復元することができません。</font>
+<font color='#0048BA'>The changed options have been applied.</font>\nYou can revert to an existing option by selecting restore.\nBP is consumed when an option is restored.\n<font color='#FF0000'>Once you exit this menu, you can no longer restore any options.</font>
 
 ID=18240
 Confirm
@@ -27071,19 +27071,19 @@ ID=18241
 Restore
 
 ID=18243
-保有ポイント
+Owned Points
 
 ID=18244
-必要ポイント
+Required Points
 
 ID=18245
-精密精錬
+Precision Refining
 
 ID=18246
-精密精錬時、登録されたアイテムを最上級（100％）で精錬します。
+During precision refining, the item is refined to the maximum value (100%).
 
 ID=18247
-等級保護アイテムを使用
+Use grade protection items
 
 ID=20238
 Nightmare
@@ -27134,7 +27134,7 @@ ID=21203
 Cash
 
 ID=21204
-評価
+Rating
 
 ID=21205
 Type
@@ -28430,7 +28430,7 @@ ID=67140
 RaphaKumba Solo Ranking [N/T]
 
 ID=1455
-連続強化
+Batch Enhance
 
 ID=1456
 連続強化中止
