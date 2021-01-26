@@ -25130,43 +25130,43 @@ ID=16849
 Galaxy
 
 ID=100038
-選択したA.Rカードと同じ種類のA.Rカードを材料として登録してください。μA.RカードはμA.R合成の対象及び、材料として使用する事はできません。
+A.R Cards of the same type as the selected A.R Card must be selected as materials. μA.R Cards cannot be used for μA.R synthesis or as materials.
 
 ID=100037
-μA.R合成は、同じ種類のカードを合成する事で、\nμA.Rカードを獲得する事ができます。
+μA.R synthesis is the process of combining cards of the same type to obtain μA.R Cards.
 
 ID=100010
-経験値合成
+EXP Synthesis
 
 ID=100011
-経験値合成
+Synthesize
 
 ID=100015
-経験値合成に使われた材料のA.Rカードは消滅します。\n材料として使用するA.Rカードは慎重にお選びください。
+A.R Cards selected as materials for experience synthesis will be lost. Please choose carefully which A.R Cards to use as materials.
 
 ID=100025
-現在の等級
+Current Rarity
 
 ID=100026
-次の等級
+Next Rarity
 
 ID=100027
 Additional Materials
 
 ID=100035
-選択したA.Rカード
+Selected A.R Card
 
 ID=100036
-同じ種類のA.Rカード
+A.R Cards of the Same Time
 
 ID=101000
 A.R Card
 
 ID=101001
-A.Rカード装着
+Installed A.R Cards
 
 ID=101002
-A.Rカード図鑑
+A.R Card Book
 
 ID=101003
 A.R
@@ -25175,82 +25175,82 @@ ID=101004
 μA.R
 
 ID=101005
-A.Rカード装着
+Installed A.R Cards
 
 ID=101006
-A.Rカード図鑑
+A.R Card Book
 
 ID=101007
-Withdraw
+Release
 
 ID=101008
-装着画面にてA.Rカードを右クリックして解放を選択すると解放する事ができます。
+Right click an A.R Card in the installed section and select "Release" to release it.
 
 ID=101009
-基本
+Basic
 
 ID=101010
 EXP
 
 ID=101011
-A.Rカードの解放
+Release A.R Card
 
 ID=101012
-使用中のA.Rカードを解放してアイテムの形に戻します。
+Release the A.R Card and return it in the form of an item.
 
 ID=101013
-★{0}ランダムA.Rカード
+★{0} Random A.R Card
 
 ID=6064
-材料として選択したA.Rカードの内、経験値があるA.Rカードが存在します。続けて進行しますか？
+Among the A.R Cards you have selected as materials, there is an A.R Card that has experience value. Do you want to continue?
 
 ID=22690
 A.R Card
 
 ID=52522
-A.Rカード合成失敗
+A.R Card Synthesis Failure
 
 ID=52523
-A.Rカード合成失敗(ジェニー不足)
+A.R Card Synthesis Failure (Insufficient Zenny)
 
 ID=52524
-A.Rカード合成失敗(経験値)
+A.R Card Synthesis Failure (Experience)
 
 ID=52525
-A.Rカード合成失敗(等級)
+A.R Card Synthesis Failure (Rarity)
 
 ID=52526
-A.Rカード合成失敗(LimitType)
+A.R Card Synthesis Failure (LimitType)
 
 ID=65037
-A.R結合
+Bonding
 
 ID=65038
-結合材料A.Rカードの登録
+Select A.R Cards to be used as bonding materials.
 
 ID=65039
-結合の材料として使われたA.Rカードは成功及び失敗を問わず消滅し、結合対象のA.Rカードは失敗しても消滅しません。
+A.R Cards used as materials for bonding will disappear regardless of success or failure, and the target A.R Card will not disappear even if the bond fails.
 
 ID=65040
-A.R結合ブーストゲージによって成功確率が増加します。\n結合成功時、次のレアリティのA.Rカードを個別の確率で獲得します。
+Success rate is increased by the A.R Bonding Boost Gauge. When successfully combined, you will get an A.R Card of the next rarity with an increased success chance.
 
 ID=65041
-結合確率：
+Bond Probability：
 
 ID=65042
-A.R結合
+Bond
 
 ID=65043
-結合失敗
+Bond Failure
 
 ID=100020
-Craft
+Add
 
 ID=100021
-Craft
+Add
 
 ID=100028
-対象A.Rカードと同じ、レアリティのA.Rカードを材料として使う事で次の等級を「製作」する事ができます。
+Using A.R Cards of the same rarity as the target card below will add the next level up to the target card.
 
 ID=5812
 <font color='#FFFFFF'><font size="30">TIP：</font>A.Rカードを集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を合成、結合、製作ができます。
@@ -25259,34 +25259,34 @@ ID=5875
 <font color='#FFFFFF'><font size="30">TIP：</font>A.Rカードを集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を合成、結合、製作ができます。
 
 ID=6065
-A.Rカードの製作を行います。材料のA.Rカードは消滅し、復旧する事はできません。続けて進行しますか？
+A.R Card will be added. The material A.R cards will disappear and cannot be recovered. Do you want to continue?
 
 ID=6066
-A.Rカードの結合を行います。材料のA.Rカードは消滅し、復旧する事はできません。続けて進行しますか？
+Combine these A.R Cards. The material A.R Cards will disappear and cannot be recovered. Do you want to continue?
 
 ID=6067
-A.RカードのμA.R合成を行います。材料のA.Rカードは消滅し、復旧する事はできません。続けて進行しますか？
+Perform μA.R synthesis of A.R Cards. The material A.R Cards will disappear and cannot be recovered. Do you want to continue?
 
 ID=100031
-μA.R合成
+Synthesize
 
 ID=100030
-μA.R合成
+μA.R Synthesis
 
 ID=6043
-A.R製作/合成[{0}]
+A.R Synthesis [{0}]
 
 ID=100022
-A.R結合
+A.R Bonding
 
 ID=100016
-A.RカードはExpが100%(MAX)になってから「製作」を行えます。
+A.R Cards can only be upgraded when their EXP is 100% (MAX).
 
 ID=100029
 製作と同じ材料に追加材料として同じ等級の「カードカバー」を使用すると上位等級の内、いずれか1つを獲得する事ができる「A.R結合」を行う事ができます。\nA.R結合を通じて新しいカードを手に入れる事はできますが、復旧できませんので慎重に行ってください。
 
 ID=27940
-パーティーまたはフォース組んではいない時、クリティカル攻撃時のクリティカルダメージ+{0}
+Critical Damage on Critical Attacks +{0} when not in a Party or Force
 
 ID=65017
 Change
@@ -29477,7 +29477,7 @@ ID=42791
 Flames of Vengeance, Poison μ
 
 ID=155
-Withdraw
+Release
 
 ID=156
 Complete
@@ -29486,7 +29486,7 @@ ID=157
 Cancel
 
 ID=158
-Complete Unlocked
+Remove All
 
 ID=710047
 Steamy Open-air Bath
