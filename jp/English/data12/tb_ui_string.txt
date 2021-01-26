@@ -27413,28 +27413,28 @@ ID=22578
 Open/Close Ranking
 
 ID=80100
-キャラクター設定
+Character Settings
 
 ID=80101
-設定完了
+Setup
 
 ID=80102
 {0}: {1}
 
 ID=80103
-再設定待機時間
+Reset Wait Time
 
 ID=80104
-代表設定
+Main Character
 
 ID=80105
-代表キャラクターを指定してください。
+Please select a main character.
 
 ID=80106
-スロットの入れ替え。
+Change Slot
 
 ID=80107
-スロットを入れ替えたいキャラクターを選択してください。
+Select the character you want to swap slots with.
 
 ID=80108
 You can't confirm your Ranking since your character is not set.
