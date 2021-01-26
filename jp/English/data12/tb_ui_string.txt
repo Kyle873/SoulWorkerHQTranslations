@@ -24332,22 +24332,22 @@ ID=65014
 {0} grade tags are randomly assigned.
 
 ID=24023
-Tag Refining Chip
+Tag Ref. Chip
 
 ID=24333
-Weapon Tag Refining Chip
+Weapon Tag Ref. Chip
 
 ID=24334
-Gear Tag Refining Chip
+Gear Tag Ref. Chip
 
 ID=24673
-Tag Refining Chip
+Tag Ref. Chip
 
 ID=24897
-Weapon Tag Refining Chip
+Weapon Tag Ref. Chip
 
 ID=24898
-Gear Tag Refining Chip
+Gear Tag Ref. Chip
 
 ID=65015
 Tags have already been added to the tag refining target. Tags that have already been added will be lost if tag refining fails. Do you want to continue?
