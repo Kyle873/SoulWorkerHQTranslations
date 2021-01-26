@@ -27416,7 +27416,7 @@ ID=80100
 Character Settings
 
 ID=80101
-Setup
+Settings Applied
 
 ID=80102
 {0}: {1}
