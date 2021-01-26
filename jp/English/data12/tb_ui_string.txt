@@ -25157,7 +25157,7 @@ ID=100035
 Selected A.R Card
 
 ID=100036
-A.R Cards of the Same Time
+A.R Cards of the Same Type
 
 ID=101000
 A.R Card
