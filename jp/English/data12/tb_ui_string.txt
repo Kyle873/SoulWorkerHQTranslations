@@ -1946,7 +1946,7 @@ ID=965
 Enhancing this item can break the item upon failure.
 
 ID=966
-Break prevention item can be used when there is a chance of the equipment breaking.
+A Q.B.D. can be used if the equipment can be broken.
 
 ID=967
 Enhance
@@ -9827,22 +9827,22 @@ ID=26135
 [Agony] Attack
 
 ID=26136
-[Brilliance] Defence
+[Brilliance] Defense
 
 ID=26137
-[Evil] Defence
+[Evil] Defense
 
 ID=26138
-[Serenity] Defence
+[Serenity] Defense
 
 ID=26139
-[Hatred] Defence
+[Hatred] Defense
 
 ID=26140
-[Healing] Defence
+[Healing] Defense
 
 ID=26141
-[Agony] Defence
+[Agony] Defense
 
 ID=26201
 Last-Hit Attack
@@ -28433,37 +28433,37 @@ ID=1455
 Batch Enhance
 
 ID=1456
-連続強化中止
+Cancel Batch Enhancing
 
 ID=1457
-反復回数
+Attempts
 
 ID=1458
-目標強化
+Goal Enhancement
 
 ID=1459
-強化進行中
+in Progress
 
 ID=1460
-反復回数をすべて実行したため強化が終了されました。
+Enhancement is finished because all attempts have completed.
 
 ID=1461
-目標強化を達成したため強化が終了されました。
+Enhancement is finished because the target enhancement goal has been reached.
 
 ID=1462
-材料が足りないため強化が終了されました。
+Enhancement is finished because you lack the necessary materials to continue.
 
 ID=1463
-Q.B.D[強化保護]が足りないため強化が終了されました。
+Enhancement is finished because you don't have enough Q.B.D.'s.
 
 ID=1464
-連続強化が終了されました。
+Batch enhancing has ended.
 
 ID=1465
-{0}回強化完了
+Back to Enhancing {0}
 
 ID=1466
-消耗した材料
+Used Material
 
 ID=710037
 Shadow Rider
