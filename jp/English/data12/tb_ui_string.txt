@@ -10358,7 +10358,7 @@ ID=28000
 Create Guild
 
 ID=28001
-Guild
+Guild List
 
 ID=28002
 In order to establish a guild, the following conditions must be satisfied.
@@ -10376,7 +10376,7 @@ ID=28006
 Insufficient funds to create a guild.\n100,000 Zenny is required.
 
 ID=28007
-Finalize Decision
+OK
 
 ID=28008
 Enter a guild name.
@@ -10406,7 +10406,7 @@ ID=28016
 Guild Master
 
 ID=28017
-Please consider once more.
+Please confirm that the information is correct.
 
 ID=28018
 Set Guild Exit
@@ -10433,7 +10433,7 @@ ID=28025
 Disband Guild
 
 ID=28026
-All the items from the guild storage will be deleted upon disbanding the guild.\nGive it a second thought.
+All the items from the guild storage will be deleted upon disbanding the guild.\nAre you sure you want to continue?
 
 ID=28027
 The guild has not been disbanded.
@@ -10484,7 +10484,7 @@ ID=28042
 Guild "{0}" was disbanded.
 
 ID=28043
-Guild mastership cannot be transferred.
+Guild leadership cannot be transferred.
 
 ID=28044
 Conditions for changing the guild leader are not met.\nGuild Level: 2 or higher\nGuild Members: 2 or more members
@@ -10766,7 +10766,7 @@ ID=28136
 Guild Master
 
 ID=28137
-#
+Members
 
 ID=28138
 Sub Master
@@ -24413,31 +24413,31 @@ ID=11713
 寂しい
 
 ID=18917
-ギルド設立[{0}]
+Create Guild [{0}]
 
 ID=18918
-ギルドリスト[{0}]
+Guild List [{0}]
 
 ID=18919
-ギルド倉庫[{0}]
+Guild Storage [{0}]
 
 ID=18920
-ギルド解散[{0}]
+Disband Guild [{0}]
 
 ID=18921
-ギルド委任[{0}]
+Change Leader [{0}]
 
 ID=18922
-マイルーム掲示板[{0}]
+Message Board [{0}]
 
 ID=18923
-HEMS[{0}]
+HEMS [{0}]
 
 ID=18924
-支援登録[{0}]
+Support Registration [{0}]
 
 ID=18925
-Manage Soulstone [{0}]
+Soulstones [{0}]
 
 ID=42510
 Miriam
