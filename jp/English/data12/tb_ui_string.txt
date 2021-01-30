@@ -10016,13 +10016,13 @@ ID=26351
 On kill, +{0} Attack for 1s
 
 ID=26352
-HPが10%以下の時、10秒間、攻撃力{0}増加
+When HP is below 10%, Attack increases by {0} for 10s
 
 ID=26353
-HPが10%以下の時、10秒間、スーパーアーマー破壊力{0}%適用
+When HP is below 10%, SA Break increases by {0}% for 10s
 
 ID=26354
-HPが5%以下の時に攻撃成功時、10%の確率で1秒無敵
+When HP is below 5% and on successful hit, 10% chance of invincibility for 1s
 
 ID=26355
 On kill, 5% chance of Super Armor for 1s.
@@ -10040,7 +10040,7 @@ ID=26359
 On kill, 5% chance of Super Armor for 5s.
 
 ID=26360
-スーパーアーマーブレイク発動時、5秒間、クリティカル{0}%増加
+On SA Break, Critical increased by {0}% for 5s
 
 ID=26361
 On evaded hit, 10% chance of +{0} Critical Dmg for 3s
@@ -10079,10 +10079,10 @@ ID=26372
 When evaded, 30% chance of +{0}% SA Break for 5s
 
 ID=26373
-スキル使用時、10%の確率で5秒間、攻撃力{0}増加
+When using a skill, 10% chance of Attack increasing by {0}% for 5s
 
 ID=26374
-スキル使用時、10%の確率で5秒間、命中度{0}増加
+When using a skill, 10% chance of HP increasing by {0}% for 5s
 
 ID=26375
 On skill use, 30% chance of +{0}% Missed Attack Dmg for 5s
@@ -10103,7 +10103,7 @@ ID=26380
 On kill Effect: +{0} SA Break for 5s
 
 ID=26381
-討伐効果：5秒間、敵の防御度貫通{0}%増加
+On kill Effect: +{0}% Penetration for 5s
 
 ID=26382
 When evaded, 30% chance of +{0} Attack for 5s
@@ -10244,7 +10244,7 @@ ID=27836
 When hit, 5% chance of +{0} SV
 
 ID=27837
-ジャンプ攻撃時、5%の確率でクリティカル{0}%増加(クリティカル命中時解除)
+Aerial attacks have a 5% chance of increasing Critical by {0}% (removed when a critical hit is made)
 
 ID=27838
 On dodge, 5% chance of +{0}% SG
@@ -10256,7 +10256,7 @@ ID=27840
 On SA Break, 10% chance of +{0} Critical Dmg for 3s
 
 ID=27841
-スキル使用時、5%の確率で4秒間、クリティカル{0}%増加
+When using a skill, 5% chance of increasing Critical by {0}% for 4s
 
 ID=27842
 When hit, +{0}% Attack (cancelled on hit)
@@ -10265,7 +10265,7 @@ ID=27843
 When hit, 5% chance of +{0}% HP
 
 ID=27844
-第6区域でクリティカル{0}%増加
+In District 6, +{0}% Critical Rate
 
 ID=27845
 In District 6, +{0}% Maximum HP
@@ -10286,7 +10286,7 @@ ID=27850
 When gaining zenny, 10% chance of +{0}% HP of gained amount
 
 ID=27851
-命中時、対象のHPが50%以上の時、クリティカル{0}%増加(命中時解除)
+Increases Critical by {0}% when the target's HP is 50% or higher (removed when hit)
 
 ID=27852
 On hit, +{0} Critical Dmg to enemies with less than 50% HP (cancelled on critical hit)
@@ -20855,7 +20855,7 @@ ID=27900
 When evaded, 30% chance of +{0} Critical Dmg for 5s
 
 ID=27901
-スキル使用時、5%の確率で5秒間防御度貫通{0}%増加
+When using a skill, 5% chance to increase Penetration by {0}% for 5s
 
 ID=27902
 On hit, 5% chance of +{0}% SA Break for 5s
@@ -20888,16 +20888,16 @@ ID=27911
 When HP is 30% or less, on successful attack, +{0} Critical Dmg for 3s
 
 ID=27912
-命中時、15%の確率でHP{0}回復
+When hit, 15% chance of recovering {0} HP
 
 ID=27913
-攻撃を受けた時、30%の確率でHP{0}回復
+When hit, 30% chance of recovering {0} HP
 
 ID=27914
-攻撃を受けた時、HP50%未満の場合10秒間防御度{0}増加
+When hit, if HP is below 50%, your Defense increases by {0} for 10s
 
 ID=27915
-攻撃を受けた時、HP50%未満の場合10秒間クリティカル抵抗{0}%増加
+When hit, if HP is below 50%, increase Critical Resistance by {0}% for 10s
 
 ID=27916
 When dashing, 10% chance of +{0} Defense for 5s
@@ -20915,7 +20915,7 @@ ID=27920
 Kill Effect: +{0}% Dmg Reduction for 5s
 
 ID=27921
-スキル使用時、10%の確率でSG{0}%回復
+When using a skill, 10% chance of recovering {0}% SG
 
 ID=27922
 When hit, 5% chance of +{0} Defense for 10s
@@ -20924,22 +20924,22 @@ ID=27923
 On hit, 10% chance of +{0} Attack for 5s
 
 ID=27924
-攻撃を受けた時、HP10%以下の場合、10%の確率で1秒間無敵
+When hit, if HP is below 10%, 10% chance of invincibility for 1s
 
 ID=27925
 On skill use, 10% chance of +{0} Defense for 5s
 
 ID=27926
-攻撃を受けた時、HP15%以下の場合、10%の確率で1秒間無敵
+When hit, if HP is below 15%, 10% chance of invincibility for 1s
 
 ID=27927
-攻撃を受けた時、HP20%以下の場合、10%の確率で1秒間無敵
+When hit, if HP is below 20%, 10% chance of invincibility for 1s
 
 ID=27928
-攻撃を受けた時、HP20%以下の場合、10%の確率で1.25秒間無敵
+When hit, if HP is below 20%, 10% chance of invincibility for 1.25s
 
 ID=27929
-攻撃を受けた時、HP20%以下の場合、10%の確率で1.5秒間無敵
+When hit, if HP is below 20%, 10% chance of invincibility for 1.5s
 
 ID=19050
 <font color='#47C83E'>+1% Critical</font>
@@ -21467,7 +21467,7 @@ ID=26209
 防具防御力[%]
 
 ID=27874
-命中時、2%の確率でスーパーアーマー破壊力{0}%増加
+On hit, 2% chance to increase SA Break by {0}% 
 
 ID=27875
 敵キャラクター攻撃力 {0}
@@ -25286,7 +25286,7 @@ ID=100029
 製作と同じ材料に追加材料として同じ等級の「カードカバー」を使用すると上位等級の内、いずれか1つを獲得する事ができる「A.R結合」を行う事ができます。\nA.R結合を通じて新しいカードを手に入れる事はできますが、復旧できませんので慎重に行ってください。
 
 ID=27940
-Critical Damage on Critical Attacks +{0} when not in a Party or Force
+Critical Dmg on Critical Attacks +{0} when not in a Party or Force
 
 ID=65017
 Change
